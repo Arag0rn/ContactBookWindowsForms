@@ -1,0 +1,24 @@
+\\vmware-host\Shared Folders\Desktop\ContactBookText\DataAccess\bin\Debug\DataAccess.dll
+\\vmware-host\Shared Folders\Desktop\ContactBookText\DataAccess\bin\Debug\DataAccess.pdb
+\\vmware-host\Shared Folders\Desktop\ContactBookText\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+\\vmware-host\Shared Folders\Desktop\ContactBookText\DataAccess\obj\Debug\DataAccess.dll
+\\vmware-host\Shared Folders\Desktop\ContactBookText\DataAccess\obj\Debug\DataAccess.pdb
+\\vmware-host\Shared Folders\Desktop\ContactBook bundle\ContactBookText\DataAccess\bin\Debug\DataAccess.dll
+\\vmware-host\Shared Folders\Desktop\ContactBook bundle\ContactBookText\DataAccess\bin\Debug\DataAccess.pdb
+\\vmware-host\Shared Folders\Desktop\ContactBook bundle\ContactBookText\DataAccess\obj\Debug\DataAccess.dll
+\\vmware-host\Shared Folders\Desktop\ContactBook bundle\ContactBookText\DataAccess\obj\Debug\DataAccess.pdb
+Z:\home\OneDrive\FMI\C#\Homeworks CSharp\Valchanov\2nd trimester\Valchanov\ContactBook bundle\ContactBookText\DataAccess\bin\Debug\DataAccess.dll
+Z:\home\OneDrive\FMI\C#\Homeworks CSharp\Valchanov\2nd trimester\Valchanov\ContactBook bundle\ContactBookText\DataAccess\bin\Debug\DataAccess.pdb
+Z:\home\OneDrive\FMI\C#\Homeworks CSharp\Valchanov\2nd trimester\Valchanov\ContactBook bundle\ContactBookText\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+Z:\home\OneDrive\FMI\C#\Homeworks CSharp\Valchanov\2nd trimester\Valchanov\ContactBook bundle\ContactBookText\DataAccess\obj\Debug\DataAccess.dll
+Z:\home\OneDrive\FMI\C#\Homeworks CSharp\Valchanov\2nd trimester\Valchanov\ContactBook bundle\ContactBookText\DataAccess\obj\Debug\DataAccess.pdb
+C:\Users\gargaml\Desktop\ContactBookText\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\gargaml\Desktop\ContactBookText\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\gargaml\Desktop\ContactBookText\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\gargaml\Desktop\ContactBookText\DataAccess\obj\Debug\DataAccess.pdb
+D:\OneDrive\Some projects\ContactBook\ContactBookText NEW\ContactBookText\DataAccess\bin\Debug\DataAccess.dll
+D:\OneDrive\Some projects\ContactBook\ContactBookText NEW\ContactBookText\DataAccess\bin\Debug\DataAccess.pdb
+D:\OneDrive\Some projects\ContactBook\ContactBookText NEW\ContactBookText\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+D:\OneDrive\Some projects\ContactBook\ContactBookText NEW\ContactBookText\DataAccess\obj\Debug\DataAccess.dll
+D:\OneDrive\Some projects\ContactBook\ContactBookText NEW\ContactBookText\DataAccess\obj\Debug\DataAccess.pdb
+C:\Users\gargaml\Desktop\ContactBookText\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache

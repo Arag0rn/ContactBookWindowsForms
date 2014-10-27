@@ -1,0 +1,186 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{35DE3202-4182-4C3C-A095-DF9F114019E3}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>ContactBookText</RootNamespace>
+    <AssemblyName>ContactBookText</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Forms\ContactsManager\FormAddPhone.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\ContactsManager\FormAddPhone.Designer.cs">
+      <DependentUpon>FormAddPhone.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\ContactsManager\FormEditContact.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\ContactsManager\FormEditContact.Designer.cs">
+      <DependentUpon>FormEditContact.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\ContactsManager\FormEditPhone.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\ContactsManager\FormEditPhone.Designer.cs">
+      <DependentUpon>FormEditPhone.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\ContactsManager\FormNewContact.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\ContactsManager\FormNewContact.Designer.cs">
+      <DependentUpon>FormNewContact.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\ContactsManager\FormViewAllContacts.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\ContactsManager\FormViewAllContacts.Designer.cs">
+      <DependentUpon>FormViewAllContacts.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\FormLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\FormLogin.Designer.cs">
+      <DependentUpon>FormLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\FormManager.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\FormManager.Designer.cs">
+      <DependentUpon>FormManager.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\UsersManager\FormEditUser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\UsersManager\FormEditUser.Designer.cs">
+      <DependentUpon>FormEditUser.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\UsersManager\FormNewUser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\UsersManager\FormNewUser.Designer.cs">
+      <DependentUpon>FormNewUser.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\UsersManager\FormViewAllUsers.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\UsersManager\FormViewAllUsers.Designer.cs">
+      <DependentUpon>FormViewAllUsers.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Forms\ContactsManager\FormAddPhone.resx">
+      <DependentUpon>FormAddPhone.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\ContactsManager\FormEditContact.resx">
+      <DependentUpon>FormEditContact.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\ContactsManager\FormEditPhone.resx">
+      <DependentUpon>FormEditPhone.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\ContactsManager\FormNewContact.resx">
+      <DependentUpon>FormNewContact.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\ContactsManager\FormViewAllContacts.resx">
+      <DependentUpon>FormViewAllContacts.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FormLogin.resx">
+      <DependentUpon>FormLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FormManager.resx">
+      <DependentUpon>FormManager.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\UsersManager\FormEditUser.resx">
+      <DependentUpon>FormEditUser.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\UsersManager\FormNewUser.resx">
+      <DependentUpon>FormNewUser.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\UsersManager\FormViewAllUsers.resx">
+      <DependentUpon>FormViewAllUsers.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <None Include="ClassDiagram1.cd" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\DataAccess\DataAccess.csproj">
+      <Project>{d322be28-47b3-449b-9ec4-f6543e2552a8}</Project>
+      <Name>DataAccess</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\contacts.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Users.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

@@ -1,0 +1,129 @@
+\\vmware-host\Shared Folders\Desktop\ContactBookText\ContactBookText\bin\Debug\ContactBookText.exe.config
+\\vmware-host\Shared Folders\Desktop\ContactBookText\ContactBookText\bin\Debug\ContactBookText.exe
+\\vmware-host\Shared Folders\Desktop\ContactBookText\ContactBookText\bin\Debug\ContactBookText.pdb
+\\vmware-host\Shared Folders\Desktop\ContactBookText\ContactBookText\bin\Debug\DataAccess.dll
+\\vmware-host\Shared Folders\Desktop\ContactBookText\ContactBookText\bin\Debug\DataAccess.pdb
+\\vmware-host\Shared Folders\Desktop\ContactBookText\ContactBookText\obj\Debug\ContactBookText.csprojResolveAssemblyReference.cache
+\\vmware-host\Shared Folders\Desktop\ContactBookText\ContactBookText\obj\Debug\ContactBookText.Properties.Resources.resources
+\\vmware-host\Shared Folders\Desktop\ContactBookText\ContactBookText\obj\Debug\ContactBookText.csproj.GenerateResource.Cache
+\\vmware-host\Shared Folders\Desktop\ContactBookText\ContactBookText\obj\Debug\ContactBookText.exe
+\\vmware-host\Shared Folders\Desktop\ContactBookText\ContactBookText\obj\Debug\ContactBookText.pdb
+\\vmware-host\Shared Folders\Desktop\ContactBookText\ContactBookText\obj\Debug\ContactBookText.Forms.FormLogin.resources
+\\vmware-host\Shared Folders\Desktop\ContactBookText\ContactBookText\obj\Debug\ContactBookText.Forms.ContactsManager.FormContactManager.resources
+\\vmware-host\Shared Folders\Desktop\ContactBookText\ContactBookText\obj\Debug\ContactBookText.Forms.ContactsManager.FormDelete.resources
+\\vmware-host\Shared Folders\Desktop\ContactBookText\ContactBookText\obj\Debug\ContactBookText.Forms.ContactsManager.FormEditContact.resources
+\\vmware-host\Shared Folders\Desktop\ContactBookText\ContactBookText\obj\Debug\ContactBookText.Forms.ContactsManager.FormNewContact.resources
+\\vmware-host\Shared Folders\Desktop\ContactBookText\ContactBookText\obj\Debug\ContactBookText.Forms.ContactsManager.FormViewAllContacts.resources
+\\vmware-host\Shared Folders\Desktop\ContactBookText\ContactBookText\obj\Debug\ContactBookText.Forms.FormManager.resources
+\\vmware-host\Shared Folders\Desktop\ContactBookText\ContactBookText\obj\Debug\ContactBookText.Forms.UsersManager.FormDeleteUser.resources
+\\vmware-host\Shared Folders\Desktop\ContactBookText\ContactBookText\obj\Debug\ContactBookText.Forms.UsersManager.FormEditUser.resources
+\\vmware-host\Shared Folders\Desktop\ContactBookText\ContactBookText\obj\Debug\ContactBookText.Forms.UsersManager.FormNewUser.resources
+\\vmware-host\Shared Folders\Desktop\ContactBookText\ContactBookText\obj\Debug\ContactBookText.Forms.UsersManager.FormUserManager.resources
+\\vmware-host\Shared Folders\Desktop\ContactBookText\ContactBookText\obj\Debug\ContactBookText.Forms.UsersManager.FormViewAllUsers.resources
+\\vmware-host\Shared Folders\Desktop\ContactBook bundle\ContactBookText\ContactBookText\bin\Debug\ContactBookText.exe.config
+\\vmware-host\Shared Folders\Desktop\ContactBook bundle\ContactBookText\ContactBookText\obj\Debug\ContactBookText.exe
+\\vmware-host\Shared Folders\Desktop\ContactBook bundle\ContactBookText\ContactBookText\obj\Debug\ContactBookText.pdb
+\\vmware-host\Shared Folders\Desktop\ContactBook bundle\ContactBookText\ContactBookText\bin\Debug\ContactBookText.exe
+\\vmware-host\Shared Folders\Desktop\ContactBook bundle\ContactBookText\ContactBookText\bin\Debug\ContactBookText.pdb
+\\vmware-host\Shared Folders\Desktop\ContactBook bundle\ContactBookText\ContactBookText\bin\Debug\DataAccess.dll
+\\vmware-host\Shared Folders\Desktop\ContactBook bundle\ContactBookText\ContactBookText\bin\Debug\DataAccess.pdb
+\\vmware-host\Shared Folders\Desktop\ContactBook bundle\ContactBookText\ContactBookText\obj\Debug\ContactBookText.Forms.ContactsManager.FormContactManager.resources
+\\vmware-host\Shared Folders\Desktop\ContactBook bundle\ContactBookText\ContactBookText\obj\Debug\ContactBookText.Forms.ContactsManager.FormEditContact.resources
+\\vmware-host\Shared Folders\Desktop\ContactBook bundle\ContactBookText\ContactBookText\obj\Debug\ContactBookText.Forms.ContactsManager.FormNewContact.resources
+\\vmware-host\Shared Folders\Desktop\ContactBook bundle\ContactBookText\ContactBookText\obj\Debug\ContactBookText.Forms.ContactsManager.FormViewAllContacts.resources
+\\vmware-host\Shared Folders\Desktop\ContactBook bundle\ContactBookText\ContactBookText\obj\Debug\ContactBookText.Forms.FormLogin.resources
+\\vmware-host\Shared Folders\Desktop\ContactBook bundle\ContactBookText\ContactBookText\obj\Debug\ContactBookText.Forms.FormManager.resources
+\\vmware-host\Shared Folders\Desktop\ContactBook bundle\ContactBookText\ContactBookText\obj\Debug\ContactBookText.Forms.UsersManager.FormDeleteUser.resources
+\\vmware-host\Shared Folders\Desktop\ContactBook bundle\ContactBookText\ContactBookText\obj\Debug\ContactBookText.Forms.UsersManager.FormEditUser.resources
+\\vmware-host\Shared Folders\Desktop\ContactBook bundle\ContactBookText\ContactBookText\obj\Debug\ContactBookText.Forms.UsersManager.FormNewUser.resources
+\\vmware-host\Shared Folders\Desktop\ContactBook bundle\ContactBookText\ContactBookText\obj\Debug\ContactBookText.Forms.UsersManager.FormUserManager.resources
+\\vmware-host\Shared Folders\Desktop\ContactBook bundle\ContactBookText\ContactBookText\obj\Debug\ContactBookText.Forms.UsersManager.FormViewAllUsers.resources
+\\vmware-host\Shared Folders\Desktop\ContactBook bundle\ContactBookText\ContactBookText\obj\Debug\ContactBookText.Properties.Resources.resources
+\\vmware-host\Shared Folders\Desktop\ContactBook bundle\ContactBookText\ContactBookText\obj\Debug\ContactBookText.csproj.GenerateResource.Cache
+\\vmware-host\Shared Folders\Desktop\ContactBook bundle\ContactBookText\ContactBookText\obj\Debug\ContactBookText.csprojResolveAssemblyReference.cache
+E:\ContactBook - new\ContactBookText\ContactBookText\bin\Debug\ContactBookText.exe.config
+E:\ContactBook - new\ContactBookText\ContactBookText\obj\Debug\ContactBookText.exe
+E:\ContactBook - new\ContactBookText\ContactBookText\obj\Debug\ContactBookText.pdb
+\\vmware-host\Shared Folders\Desktop\ContactBook bundle\ContactBookText\ContactBookText\obj\Debug\ContactBookText.Forms.ContactsManager.FormDeleteContact.resources
+Z:\home\OneDrive\FMI\C#\Homeworks CSharp\Valchanov\2nd trimester\Valchanov\ContactBook bundle\ContactBookText\ContactBookText\bin\Debug\ContactBookText.exe.config
+Z:\home\OneDrive\FMI\C#\Homeworks CSharp\Valchanov\2nd trimester\Valchanov\ContactBook bundle\ContactBookText\ContactBookText\obj\Debug\ContactBookText.exe
+Z:\home\OneDrive\FMI\C#\Homeworks CSharp\Valchanov\2nd trimester\Valchanov\ContactBook bundle\ContactBookText\ContactBookText\obj\Debug\ContactBookText.pdb
+Z:\home\OneDrive\FMI\C#\Homeworks CSharp\Valchanov\2nd trimester\Valchanov\ContactBook bundle\ContactBookText\ContactBookText\bin\Debug\ContactBookText.exe
+Z:\home\OneDrive\FMI\C#\Homeworks CSharp\Valchanov\2nd trimester\Valchanov\ContactBook bundle\ContactBookText\ContactBookText\bin\Debug\ContactBookText.pdb
+Z:\home\OneDrive\FMI\C#\Homeworks CSharp\Valchanov\2nd trimester\Valchanov\ContactBook bundle\ContactBookText\ContactBookText\bin\Debug\DataAccess.dll
+Z:\home\OneDrive\FMI\C#\Homeworks CSharp\Valchanov\2nd trimester\Valchanov\ContactBook bundle\ContactBookText\ContactBookText\bin\Debug\DataAccess.pdb
+Z:\home\OneDrive\FMI\C#\Homeworks CSharp\Valchanov\2nd trimester\Valchanov\ContactBook bundle\ContactBookText\ContactBookText\obj\Debug\ContactBookText.csprojResolveAssemblyReference.cache
+Z:\home\OneDrive\FMI\C#\Homeworks CSharp\Valchanov\2nd trimester\Valchanov\ContactBook bundle\ContactBookText\ContactBookText\obj\Debug\ContactBookText.Forms.ContactsManager.FormContactManager.resources
+Z:\home\OneDrive\FMI\C#\Homeworks CSharp\Valchanov\2nd trimester\Valchanov\ContactBook bundle\ContactBookText\ContactBookText\obj\Debug\ContactBookText.Forms.ContactsManager.FormDeleteContact.resources
+Z:\home\OneDrive\FMI\C#\Homeworks CSharp\Valchanov\2nd trimester\Valchanov\ContactBook bundle\ContactBookText\ContactBookText\obj\Debug\ContactBookText.Forms.ContactsManager.FormEditContact.resources
+Z:\home\OneDrive\FMI\C#\Homeworks CSharp\Valchanov\2nd trimester\Valchanov\ContactBook bundle\ContactBookText\ContactBookText\obj\Debug\ContactBookText.Forms.ContactsManager.FormNewContact.resources
+Z:\home\OneDrive\FMI\C#\Homeworks CSharp\Valchanov\2nd trimester\Valchanov\ContactBook bundle\ContactBookText\ContactBookText\obj\Debug\ContactBookText.Forms.ContactsManager.FormViewAllContacts.resources
+Z:\home\OneDrive\FMI\C#\Homeworks CSharp\Valchanov\2nd trimester\Valchanov\ContactBook bundle\ContactBookText\ContactBookText\obj\Debug\ContactBookText.Forms.FormLogin.resources
+Z:\home\OneDrive\FMI\C#\Homeworks CSharp\Valchanov\2nd trimester\Valchanov\ContactBook bundle\ContactBookText\ContactBookText\obj\Debug\ContactBookText.Forms.FormManager.resources
+Z:\home\OneDrive\FMI\C#\Homeworks CSharp\Valchanov\2nd trimester\Valchanov\ContactBook bundle\ContactBookText\ContactBookText\obj\Debug\ContactBookText.Forms.UsersManager.FormDeleteUser.resources
+Z:\home\OneDrive\FMI\C#\Homeworks CSharp\Valchanov\2nd trimester\Valchanov\ContactBook bundle\ContactBookText\ContactBookText\obj\Debug\ContactBookText.Forms.UsersManager.FormEditUser.resources
+Z:\home\OneDrive\FMI\C#\Homeworks CSharp\Valchanov\2nd trimester\Valchanov\ContactBook bundle\ContactBookText\ContactBookText\obj\Debug\ContactBookText.Forms.UsersManager.FormNewUser.resources
+Z:\home\OneDrive\FMI\C#\Homeworks CSharp\Valchanov\2nd trimester\Valchanov\ContactBook bundle\ContactBookText\ContactBookText\obj\Debug\ContactBookText.Forms.UsersManager.FormUserManager.resources
+Z:\home\OneDrive\FMI\C#\Homeworks CSharp\Valchanov\2nd trimester\Valchanov\ContactBook bundle\ContactBookText\ContactBookText\obj\Debug\ContactBookText.Forms.UsersManager.FormViewAllUsers.resources
+Z:\home\OneDrive\FMI\C#\Homeworks CSharp\Valchanov\2nd trimester\Valchanov\ContactBook bundle\ContactBookText\ContactBookText\obj\Debug\ContactBookText.Properties.Resources.resources
+Z:\home\OneDrive\FMI\C#\Homeworks CSharp\Valchanov\2nd trimester\Valchanov\ContactBook bundle\ContactBookText\ContactBookText\obj\Debug\ContactBookText.csproj.GenerateResource.Cache
+C:\Users\gargaml\Desktop\ContactBookText\ContactBookText\bin\Debug\ContactBookText.exe.config
+C:\Users\gargaml\Desktop\ContactBookText\ContactBookText\obj\Debug\ContactBookText.exe
+C:\Users\gargaml\Desktop\ContactBookText\ContactBookText\obj\Debug\ContactBookText.pdb
+C:\Users\gargaml\Desktop\ContactBookText\ContactBookText\obj\Debug\ContactBookText.csprojResolveAssemblyReference.cache
+C:\Users\gargaml\Desktop\ContactBookText\ContactBookText\obj\Debug\ContactBookText.Forms.ContactsManager.FormEditContact.resources
+C:\Users\gargaml\Desktop\ContactBookText\ContactBookText\obj\Debug\ContactBookText.Forms.ContactsManager.FormNewContact.resources
+C:\Users\gargaml\Desktop\ContactBookText\ContactBookText\obj\Debug\ContactBookText.Forms.ContactsManager.FormViewAllContacts.resources
+C:\Users\gargaml\Desktop\ContactBookText\ContactBookText\obj\Debug\ContactBookText.Forms.FormLogin.resources
+C:\Users\gargaml\Desktop\ContactBookText\ContactBookText\obj\Debug\ContactBookText.Forms.FormManager.resources
+C:\Users\gargaml\Desktop\ContactBookText\ContactBookText\obj\Debug\ContactBookText.Forms.UsersManager.FormEditUser.resources
+C:\Users\gargaml\Desktop\ContactBookText\ContactBookText\obj\Debug\ContactBookText.Forms.UsersManager.FormNewUser.resources
+C:\Users\gargaml\Desktop\ContactBookText\ContactBookText\obj\Debug\ContactBookText.Forms.UsersManager.FormViewAllUsers.resources
+C:\Users\gargaml\Desktop\ContactBookText\ContactBookText\obj\Debug\ContactBookText.Properties.Resources.resources
+C:\Users\gargaml\Desktop\ContactBookText\ContactBookText\obj\Debug\ContactBookText.csproj.GenerateResource.Cache
+C:\Users\gargaml\Desktop\ContactBookText\ContactBookText\bin\Debug\ContactBookText.exe
+C:\Users\gargaml\Desktop\ContactBookText\ContactBookText\bin\Debug\ContactBookText.pdb
+C:\Users\gargaml\Desktop\ContactBookText\ContactBookText\bin\Debug\DataAccess.dll
+C:\Users\gargaml\Desktop\ContactBookText\ContactBookText\bin\Debug\DataAccess.pdb
+C:\Users\gargaml\Desktop\ContactBookText\ContactBookText\obj\Debug\ContactBookText.Forms.ContactsManager.FormAddPhone.resources
+C:\Users\gargaml\Desktop\ContactBookText\ContactBookText\obj\Debug\ContactBookText.Forms.ContactsManager.FormEditPhone.resources
+C:\Users\gargaml\Desktop\ContactBookText NEW\ContactBookText\ContactBookText\bin\Debug\ContactBookText.exe.config
+C:\Users\gargaml\Desktop\ContactBookText NEW\ContactBookText\ContactBookText\obj\Debug\ContactBookText.exe
+C:\Users\gargaml\Desktop\ContactBookText NEW\ContactBookText\ContactBookText\obj\Debug\ContactBookText.pdb
+C:\Users\gargaml\Desktop\ContactBookText NEW\ContactBookText\ContactBookText\bin\Debug\ContactBookText.exe
+C:\Users\gargaml\Desktop\ContactBookText NEW\ContactBookText\ContactBookText\bin\Debug\ContactBookText.pdb
+C:\Users\gargaml\Desktop\ContactBookText NEW\ContactBookText\ContactBookText\bin\Debug\DataAccess.dll
+C:\Users\gargaml\Desktop\ContactBookText NEW\ContactBookText\ContactBookText\bin\Debug\DataAccess.pdb
+C:\Users\gargaml\Desktop\ContactBookText NEW\ContactBookText\ContactBookText\obj\Debug\ContactBookText.csprojResolveAssemblyReference.cache
+C:\Users\gargaml\Desktop\ContactBookText NEW\ContactBookText\ContactBookText\obj\Debug\ContactBookText.Forms.ContactsManager.FormAddPhone.resources
+C:\Users\gargaml\Desktop\ContactBookText NEW\ContactBookText\ContactBookText\obj\Debug\ContactBookText.Forms.ContactsManager.FormEditContact.resources
+C:\Users\gargaml\Desktop\ContactBookText NEW\ContactBookText\ContactBookText\obj\Debug\ContactBookText.Forms.ContactsManager.FormEditPhone.resources
+C:\Users\gargaml\Desktop\ContactBookText NEW\ContactBookText\ContactBookText\obj\Debug\ContactBookText.Forms.ContactsManager.FormNewContact.resources
+C:\Users\gargaml\Desktop\ContactBookText NEW\ContactBookText\ContactBookText\obj\Debug\ContactBookText.Forms.ContactsManager.FormViewAllContacts.resources
+C:\Users\gargaml\Desktop\ContactBookText NEW\ContactBookText\ContactBookText\obj\Debug\ContactBookText.Forms.FormLogin.resources
+C:\Users\gargaml\Desktop\ContactBookText NEW\ContactBookText\ContactBookText\obj\Debug\ContactBookText.Forms.FormManager.resources
+C:\Users\gargaml\Desktop\ContactBookText NEW\ContactBookText\ContactBookText\obj\Debug\ContactBookText.Forms.UsersManager.FormEditUser.resources
+C:\Users\gargaml\Desktop\ContactBookText NEW\ContactBookText\ContactBookText\obj\Debug\ContactBookText.Forms.UsersManager.FormNewUser.resources
+C:\Users\gargaml\Desktop\ContactBookText NEW\ContactBookText\ContactBookText\obj\Debug\ContactBookText.Forms.UsersManager.FormViewAllUsers.resources
+C:\Users\gargaml\Desktop\ContactBookText NEW\ContactBookText\ContactBookText\obj\Debug\ContactBookText.Properties.Resources.resources
+C:\Users\gargaml\Desktop\ContactBookText NEW\ContactBookText\ContactBookText\obj\Debug\ContactBookText.csproj.GenerateResource.Cache
+D:\OneDrive\Some projects\ContactBook\ContactBookText NEW\ContactBookText\ContactBookText\bin\Debug\ContactBookText.exe.config
+D:\OneDrive\Some projects\ContactBook\ContactBookText NEW\ContactBookText\ContactBookText\obj\Debug\ContactBookText.exe
+D:\OneDrive\Some projects\ContactBook\ContactBookText NEW\ContactBookText\ContactBookText\obj\Debug\ContactBookText.pdb
+D:\OneDrive\Some projects\ContactBook\ContactBookText NEW\ContactBookText\ContactBookText\bin\Debug\ContactBookText.exe
+D:\OneDrive\Some projects\ContactBook\ContactBookText NEW\ContactBookText\ContactBookText\bin\Debug\ContactBookText.pdb
+D:\OneDrive\Some projects\ContactBook\ContactBookText NEW\ContactBookText\ContactBookText\bin\Debug\DataAccess.dll
+D:\OneDrive\Some projects\ContactBook\ContactBookText NEW\ContactBookText\ContactBookText\bin\Debug\DataAccess.pdb
+D:\OneDrive\Some projects\ContactBook\ContactBookText NEW\ContactBookText\ContactBookText\obj\Debug\ContactBookText.csprojResolveAssemblyReference.cache
+D:\OneDrive\Some projects\ContactBook\ContactBookText NEW\ContactBookText\ContactBookText\obj\Debug\ContactBookText.Forms.ContactsManager.FormAddPhone.resources
+D:\OneDrive\Some projects\ContactBook\ContactBookText NEW\ContactBookText\ContactBookText\obj\Debug\ContactBookText.Forms.ContactsManager.FormEditContact.resources
+D:\OneDrive\Some projects\ContactBook\ContactBookText NEW\ContactBookText\ContactBookText\obj\Debug\ContactBookText.Forms.ContactsManager.FormEditPhone.resources
+D:\OneDrive\Some projects\ContactBook\ContactBookText NEW\ContactBookText\ContactBookText\obj\Debug\ContactBookText.Forms.ContactsManager.FormNewContact.resources
+D:\OneDrive\Some projects\ContactBook\ContactBookText NEW\ContactBookText\ContactBookText\obj\Debug\ContactBookText.Forms.ContactsManager.FormViewAllContacts.resources
+D:\OneDrive\Some projects\ContactBook\ContactBookText NEW\ContactBookText\ContactBookText\obj\Debug\ContactBookText.Forms.FormLogin.resources
+D:\OneDrive\Some projects\ContactBook\ContactBookText NEW\ContactBookText\ContactBookText\obj\Debug\ContactBookText.Forms.FormManager.resources
+D:\OneDrive\Some projects\ContactBook\ContactBookText NEW\ContactBookText\ContactBookText\obj\Debug\ContactBookText.Forms.UsersManager.FormEditUser.resources
+D:\OneDrive\Some projects\ContactBook\ContactBookText NEW\ContactBookText\ContactBookText\obj\Debug\ContactBookText.Forms.UsersManager.FormNewUser.resources
+D:\OneDrive\Some projects\ContactBook\ContactBookText NEW\ContactBookText\ContactBookText\obj\Debug\ContactBookText.Forms.UsersManager.FormViewAllUsers.resources
+D:\OneDrive\Some projects\ContactBook\ContactBookText NEW\ContactBookText\ContactBookText\obj\Debug\ContactBookText.Properties.Resources.resources
+D:\OneDrive\Some projects\ContactBook\ContactBookText NEW\ContactBookText\ContactBookText\obj\Debug\ContactBookText.csproj.GenerateResource.Cache
